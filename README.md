@@ -63,4 +63,80 @@ I'm pursuing a **PhD in Computer Science**, focusing on efficient deep learning,
 
 My research interests include:
 
-- Convolutional Neural Networks
+- Convolutional Neural Networks and Deep Learning
+- Model Compression and Efficient Inference
+- Quantization, Pruning, and Knowledge Distillation
+- Hebbian Learning and Neuromodulated Learning
+- Edge AI and Hardware-Aware Optimization
+- Computer Vision
+
+**Research publication:**
+
+*NM-Hebb: A Two-Phase Neuromodulated Hebbian Framework for CNN Training*
+
+Published in **Neurocomputing**, a peer-reviewed scientific journal.
+
+My research investigates biologically inspired learning mechanisms and their application to convolutional neural networks.
+
+---
+
+## 🛠️ Technical Skills
+
+| Area | Technologies |
+|---|---|
+| Programming | Python, C, C++, C# |
+| Machine Learning | PyTorch, Deep Learning, CNNs, Model Optimization |
+| Data Processing | pandas, NumPy, Excel Automation, Data Analytics |
+| Embedded AI | FPGA, Vitis HLS, Vivado, Vitis, Hardware Acceleration |
+| Embedded Systems | Embedded Linux, Raspberry Pi, UART, SPI, I2C |
+| Automotive Testing | HIL, NI VeriStand, NI TestStand, CAN, CAN FD, Ethernet |
+| Software Engineering | Git, GitHub Actions, pytest, CI/CD, Debugging, Automation |
+
+---
+
+## 💼 What I Can Help With
+
+I'm available for selected remote, part-time, and freelance engineering projects.
+
+**Python Development & Automation**
+- Business process and reporting automation
+- CSV, Excel, and data processing pipelines
+- Python debugging, refactoring, and testing
+- Automated reporting and data visualization
+
+**Machine Learning & AI**
+- PyTorch model development and evaluation
+- CNN training and optimization
+- Model quantization and compression
+- AI-generated code evaluation and debugging
+
+**Embedded AI & FPGA**
+- Edge AI deployment
+- FPGA-based neural network inference
+- Vitis HLS and hardware/software integration
+- Performance analysis and optimization
+
+**Software Testing & Engineering**
+- Automated test frameworks
+- Embedded software validation
+- Debugging and integration testing
+- CI/CD and quality assurance
+
+---
+
+## 🎯 Current Focus
+
+- Efficient deep learning and CNN optimization
+- Python automation and developer tooling
+- Embedded AI and FPGA inference acceleration
+- AI model evaluation and software engineering workflows
+- Applied machine learning research
+
+---
+
+## 🤝 Connect
+
+- **LinkedIn:** [Davorin Milicevic](https://www.linkedin.com/)
+- **GitHub:** [github.com/Davorin51](https://github.com/Davorin51)
+
+Open to selected collaborations, research opportunities, and remote freelance projects involving Python, Machine Learning, Embedded AI, and FPGA acceleration.
