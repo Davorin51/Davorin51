@@ -1,47 +1,66 @@
 # Hi, I'm Davorin 👋
 
-I'm an Automotive & Embedded Software Engineer and PhD researcher working at the intersection of:
+### Machine Learning & Embedded AI Engineer | Python, C/C++ | FPGA | PhD Researcher
 
-- Machine Learning & Deep Learning
-- Edge AI & Computer Vision
-- FPGA / HLS acceleration
-- Embedded Systems
-- Python & C/C++
-- Automotive software validation
+I'm a software engineer and PhD researcher in Computer Science, combining **industrial software engineering, machine learning research, and embedded AI development**.
 
-## Featured Project
+My work spans the complete development lifecycle — from designing and training deep learning models to optimizing and deploying them on resource-constrained hardware, as well as building reliable Python automation and software testing solutions.
 
-### KV260 CIFAR-10 INT8 FPGA Inference
+I have approximately **4 years of professional software engineering experience**, primarily in automotive and embedded systems.
 
-End-to-end CNN deployment on AMD/Xilinx Kria KV260:
+I'm interested in solving real-world engineering problems through efficient algorithms, reliable software, and practical AI solutions.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Python Automation Toolkit
+
+**Automated Data Processing, Analytics & Reporting System**
+
+A modular Python application designed to automate repetitive business reporting workflows.
+
+**Key features:**
+- CSV and Excel ingestion with multi-file support
+- Automated data validation, cleaning, and error reporting
+- Business analytics, KPIs, and trend analysis
+- Excel dashboards, PDF reports, and data visualizations
+- Command-line interface and optional desktop GUI
+- Automated testing, CI/CD, and performance benchmarking
+
+**Technologies:** Python, pandas, openpyxl, matplotlib, ReportLab, pytest, GitHub Actions
+
+**[View Project →](https://github.com/Davorin51/python-automation-toolkit)**
+
+### 2. KV260 CIFAR-10 INT8 FPGA Inference
+
+**End-to-End Deep Learning Deployment on AMD/Xilinx Kria KV260**
+
+Implemented a complete CNN deployment workflow targeting FPGA hardware.
+
+**Deployment pipeline:**
 
 PyTorch → INT8 Quantization → Vitis HLS → Vivado → Vitis → FPGA Hardware
 
-**Results**
-- FP32 accuracy: 74.50%
-- INT8 accuracy: 72.74%
-- Hardware inference: ~29.19 ms/image
-- Throughput: ~34.3 images/s
+**Measured results:**
 
-[View project](https://github.com/Davorin51/kv260-cifar10-int8-fpga-inference)
+| Metric | Result |
+|---|---|
+| FP32 accuracy | 74.50% |
+| INT8 accuracy | 72.74% |
+| Hardware inference latency | ~29.19 ms/image |
+| Throughput | ~34.3 images/s |
 
-## Tech
+**Technologies:** PyTorch, C++, Vitis HLS, Vivado, Vitis, FPGA, Embedded AI
 
-Python • PyTorch • C/C++ • FPGA • Vitis HLS • Vivado • Embedded Linux • Raspberry Pi • Jetson • Computer Vision
+**[View Project →](https://github.com/Davorin51/kv260-cifar10-int8-fpga-inference)**
 
-## Research
+---
 
-PhD researcher in Computer Science with work in deep learning, CNN optimization, quantization, pruning, knowledge distillation and Hebbian-inspired learning.
+## 🔬 Research & Academic Work
 
-Peer-reviewed research published in Neurocomputing.
+I'm pursuing a **PhD in Computer Science**, focusing on efficient deep learning, neural network optimization, and alternative learning mechanisms.
 
-## Open to
+My research interests include:
 
-Selected remote part-time / contract work in:
-
-- Machine Learning
-- Edge AI
-- Computer Vision
-- Embedded AI
-- FPGA acceleration
-- Python engineering
+- Convolutional Neural Networks
