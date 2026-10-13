@@ -2,6 +2,8 @@
 
 ### Machine Learning & Embedded AI Engineer | Python, C/C++ | FPGA | PhD Researcher
 
+### My portfolio: https://github.com/Davorin51/Davorin51.github.io
+
 I'm a software engineer and PhD researcher in Computer Science, combining **industrial software engineering, machine learning research, and embedded AI development**.
 
 My work spans the complete development lifecycle — from designing and training deep learning models to optimizing and deploying them on resource-constrained hardware, as well as building reliable Python automation and software testing solutions.
